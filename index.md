@@ -12,7 +12,7 @@ Ash studies Arctic clouds and radiation and whether improving cloud optical prop
 #### PhD in Atmospheric and Oceanic Sciences
 University of Colorado Boulder, in progress
 <br>
-Advisors: Dr. Jennifer Kay
+Advisor: Dr. Jennifer Kay
 
 #### BSE in Climate & Meteorology
 University of Michigan, 2022
