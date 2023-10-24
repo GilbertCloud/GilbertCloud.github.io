@@ -1,6 +1,6 @@
 ## About
 
-Ash is a second-year PhD student in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. They have a bachelor's degree in Climate & Meteorology with minors in Computer Science and Latin from the Univerist of Michigan.
+Ash is a second-year PhD student in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. They have a bachelor's degree in Climate & Meteorology with minors in Computer Science and Latin from the University of Michigan.
 
 Ash studies Arctic clouds and radiation and whether improving cloud optical properties matters for the Arctic climate. They use CESM2 to test the significance of more accurate liquid water optical properties for supercooled liquid water on downwelling longwave radiation. Ash is also interested in wind nudging, statistics, and the effect of wildfires on the Arctic climate.
 
