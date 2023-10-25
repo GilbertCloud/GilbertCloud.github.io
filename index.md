@@ -4,13 +4,13 @@ Ash is a second-year PhD student in Atmospheric and Oceanic Sciences at the Univ
 
 Ash studies Arctic clouds and radiation and whether improving cloud optical properties matters for the Arctic climate. They use CESM2 to test the significance of more accurate liquid water optical properties for supercooled liquid water on downwelling longwave radiation. Ash is also interested in wind nudging, statistics, and the effect of wildfires on the Arctic climate.
 
-[Curriculum vitae](./Gilbert_CV_09182023.pdf) (updated September 18th 2023)
+[Curriculum vitae](./Gilbert_CV_09182023.pdf) (updated September 18th, 2023)
 
 
 ## Education
 
 #### PhD in Atmospheric and Oceanic Sciences
-University of Colorado Boulder, in progress
+University of Colorado Boulder, expected 2027
 <br>
 Advisor: Dr. Jennifer Kay
 
