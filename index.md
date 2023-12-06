@@ -22,11 +22,10 @@ Advisor: Dr. Jeremy Bassis
 
 ## Publications
 
-<b>Gilbert, A.</b> and Bassis, J. (2023). Observing and Modeling the Formation and Drainage of Supraglacial Lakes on Russell Glacier, West Greenland. Journal of Glaciology. Submitted.
+Snide, C. E.,<b>Gilbert, L.</b>,Meyer, A.,Samson, P.,Flanner, M., and Bassis, J. (2020). Seeing the Greenland Ice Sheet through students’ eyes. Eos. [Article](https://eos.org/science-updates/seeing-the-greenland-ice-sheet-through-students-eyes)
 
 ## Datasets, Tools, and Resources
 
-#### MeltwaterModel ####
+#### CESM wind nudging visualization ####
 
-This [model](https://github.com/GilbertCloud/MeltwaterModel) simulates the flow of meltwater over an ice sheet and is featured in Gilbert & Bassis.
-
+This [Jupyter notebook](https://github.com/GilbertCloud/CESMwindnudgingvisualization) is a tool for visualizing horizontal and vertical nudging windows in CESM.
