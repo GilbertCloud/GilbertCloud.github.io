@@ -4,7 +4,7 @@ Ash is a second-year PhD student in Atmospheric and Oceanic Sciences at the Univ
 
 Ash studies Arctic clouds and radiation and whether improving cloud optical properties matters for the Arctic climate. They use CESM2 to test the significance of more accurate liquid water optical properties for supercooled liquid water on downwelling longwave radiation. Ash also uses CESM2 in an attribution study on the controls of Arctic warming.
 
-[Curriculum vitae](./Gilbert_CV_09182023.pdf) (updated September 18th, 2023)
+[Curriculum vitae](./Gilbert_CV_01292024.pdf) (updated January 29th, 2024)
 
 
 ## Education
