@@ -1,11 +1,11 @@
 <nav>
-    <a href="/"> {% if page.url == "/" %}style="color: gray;"{% endif %}
+    <a href="/" {% if page.url == "/" %}style="color: gray;"{% endif %}>
         Home
     </a>
-    <a href="/tools.html"> {% if page.url == "/tools.html" %}style="color: gray;"{% endif %}
+    <a href="/tools.html" {% if page.url == "/tools.html" %}style="color: gray;"{% endif %}>
         Datasets and Tools
     </a>
-    <a href="/pubs.html"> {% if page.url == "/tools.html" %}style="color: gray;"{% endif %}
+    <a href="/pubs.html" {% if page.url == "/pubs.html" %}style="color: gray;"{% endif %}></a>
         Publications
     </a>
 </nav>
