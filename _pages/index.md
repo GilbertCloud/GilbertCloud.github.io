@@ -24,13 +24,3 @@ University of Michigan, 2022
 <br>
 Advisor: Dr. Jeremy Bassis
 
-
-## Publications
-
-Snide, C. E.,<b>Gilbert, L.</b>,Meyer, A.,Samson, P.,Flanner, M., and Bassis, J. (2020). Seeing the Greenland Ice Sheet through students’ eyes. Eos. [Article](https://eos.org/science-updates/seeing-the-greenland-ice-sheet-through-students-eyes)
-
-## Datasets, Tools, and Resources
-
-#### CESM wind nudging visualization ####
-
-This [Jupyter notebook](https://github.com/GilbertCloud/CESMwindnudgingvisualization) is a tool for visualizing horizontal and vertical nudging windows in CESM.
