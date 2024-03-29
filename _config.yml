@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Ash Gilbert
 logo: /assets/img/website_picture.jpg
 show_downloads: False
+include:
+  - _pages
