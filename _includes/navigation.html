@@ -1,6 +1,6 @@
 <nav>
     {% for item in site.data.navigation %}
-        <a href="{{ item.url }}" {% if page.url == item.url %} style="color: dodgerblue;"{% endif %}>
+        <a href="{{ item.url }}" {% if page.url == item.url %} style="color: gray;"{% endif %}>
             {{ item.title }}
         </a>
         <span style="display:inline-block; width: 0.6cm;"></span>
