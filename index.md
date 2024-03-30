@@ -10,13 +10,9 @@ When Ash is not doing research, they enjoy being in the Colorado outdoors runnin
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/ashgilbertcuboulder/)
-
 [Google Scholar Profile](https://scholar.google.com/citations?user=bmfeMbkAAAAJ&hl=en)
-
 [ORCID](https://orcid.org/0000-0002-8415-364X)
-
 [Kay Group Website](https://cires.colorado.edu/research/research-groups/jennifer-kay-group)
-
 [GitHub Profile](https://github.com/GilbertCloud)
 
 
