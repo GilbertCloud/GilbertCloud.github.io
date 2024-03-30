@@ -1,25 +1,17 @@
 <nav>
-    <h2>
-        <a href="/" {% if page.url == "/" %}style="color: gray;"{% endif %}>
-            Home
-        </a>
-    </h2>
-    <br>
-    <h2>
-        <a href="/research_ed.html" {% if page.url == "/research_ed.html" %}style="color: gray;"{% endif %}>
-            Research & Education
-        </a>
-    </h2>
-    <br>
-    <h2>
-        <a href="/pubs.html" {% if page.url == "/pubs.html" %}style="color: gray;"{% endif %}>
-            Publications
-        </a>
-    </h2>
-    <br>
-    <h2>
-        <a href="/tools.html" {% if page.url == "/tools.html" %}style="color: gray;"{% endif %}>
-            Datasets & Tools
-        </a>
-    </h2>
+    <a href="/" {% if page.url == "/" %}style="color: gray;"{% endif %}>
+        Home
+    </a>
+    <span style="display:inline-block; width: 0.75cm;"></span>
+    <a href="/research_ed.html" {% if page.url == "/research_ed.html" %}style="color: gray;"{% endif %}>
+        Research & Education
+    </a>
+    <span style="display:inline-block; width: 0.75cm;"></span>
+    <a href="/pubs.html" {% if page.url == "/pubs.html" %}style="color: gray;"{% endif %}>
+        Publications
+    </a>
+    <span style="display:inline-block; width: 0.75cm;"></span>
+    <a href="/tools.html" {% if page.url == "/tools.html" %}style="color: gray;"{% endif %}>
+        Datasets & Tools
+    </a>
 </nav>
