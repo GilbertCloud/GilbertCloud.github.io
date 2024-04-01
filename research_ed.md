@@ -5,15 +5,13 @@ title: Research & Education
 ## Education
 
 #### PhD in Atmospheric and Oceanic Sciences
-University of Colorado Boulder, expected 2027
-<br>
+University of Colorado Boulder, expected 2027        
 Advisor: Dr. Jennifer Kay
 
 #### BSE in Climate & Meteorology
 University of Michigan, 2022        
 _Summa cum laude_ with Honors        
 Minors: Computer Science & Latin           
-<br>
 Advisor: Dr. Jeremy Bassis
 
 ## Research
