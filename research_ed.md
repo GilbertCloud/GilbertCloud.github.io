@@ -26,4 +26,4 @@ In this project, I plan to determine how much of the observed Arctic warming tre
 Funded by a NSF Graduate Research Fellowship and NSF Arctic Natural Sciences grant.
 
 ## CV
-[Curriculum vitae](/assets/pdfs/Gilbert_CV_02122024.pdf) (updated February 12th, 2024)
+[Curriculum vitae](/assets/pdfs/Gilbert_CV_06132024.pdf) (updated June 13th, 2024)
