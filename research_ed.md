@@ -16,7 +16,7 @@ Advisor: Dr. Jeremy Bassis
 
 ## Research
 ### Arctic Cloud Optics Project
-In this research project, I evaulated whether improving supercooled liquid cloud optics affects radiation emitted from Arctic clouds using a hierarchy of models. I also developed a process for evaluating the effect of a physics change across a range of model types and scales. This paper for this project is in preparation for journal submission. The most recent presentation of this project was a [poster](/assets/pdfs/ESSS2023_Poster.pdf) at the US CLIVAR Polar Amplification Workshop in January 2024.
+In this research project, I evaulated whether improving supercooled liquid cloud optics affects radiation emitted from Arctic clouds using a hierarchy of models. I also developed a process for evaluating the effect of a physics change across a range of model types and scales. This paper for this project is in preparation for journal submission. The most recent presentation of this project was a [talk](https://www.youtube.com/live/6ECGPNW9Ufw?si=gjIZCSEgPW2tJzXp&t=18708) at the CESM Workshop in June 2024.
 
 Funded by a NSF Graduate Research Fellowship and NASA PREFIRE grant.
 
