@@ -22,9 +22,9 @@ https://doi.org/10.5194/egusphere-2024-2043). The most recent presentation of th
 Funded by a NSF Graduate Research Fellowship and NASA PREFIRE grant.
 
 ### Controls on Arctic Warming Project
-In this project, I plan to determine how much of the observed Arctic warming trend and variability we can attribute to changes in the winds, mean state, and forcing. The most recent presentation of this project was a [talk](https://youtu.be/C1jKDYqo2l0?si=DreG8EzlVSeKfG-R&t=23067) at the NCAR Polar Climate Working Group Meeting in February 2024.
+In this project, I determineDd how much of the observed Arctic warming and sea loss and variability we can attribute to changes in the winds and sea ice mean state. The most recent presentation of this project was a [poster](//) at the Graduate Climate Conference in November 2024.
 
 Funded by a NSF Graduate Research Fellowship and NSF Arctic Natural Sciences grant.
 
 ## CV
-[Curriculum vitae](/assets/pdfs/Gilbert_CV_06132024.pdf) (updated June 13th, 2024)
+[Curriculum vitae](/assets/pdfs/Gilbert_CV_06132024.pdf) (updated November 13th, 2024)
