@@ -4,7 +4,9 @@ title: Publications
 ---
 ## Publications
 
-**Gilbert, A.**, Kay, J., and Rowe, P. A Novel Model Hierarchy Isolates the Effect of Temperature-dependent Cloud Optics on Infrared Radiation. _Geoscientific Model Development_. _In review_. [Preprint](/assets/pdfs/egusphere-2024-2043.pdf)
+**Gilbert, A.**, Kay, J.E., Blanchard-Wrigglesworth, E., Holland, M.M., Jahn, A., Bailey, D.A., and Schneider, D. Isolating the Contribution of Observed Winds to Recent Arctic Warming and Sea Ice Loss. _Journal of Climate_. _In preparation_.
+
+**Gilbert, A.**, Kay, J.E., and Rowe, P. A Novel Model Hierarchy Isolates the Effect of Temperature-dependent Cloud Optics on Infrared Radiation. _Geoscientific Model Development_. _In review_. [Preprint](/assets/pdfs/egusphere-2024-2043.pdf)
 
 Wright, D.M., Jablonowski, C., Fujisaki-Manome, A., Mroczka, B., **Gilbert, A.**, Titze, D., Mann, G.E., Anderson, E.J. The Sensitivity of Lake-Effect Snowfall to Changes in Lake Surface Conditions Across the Forecast Horizon in the Unified Forecast System's Short-Range Weather Application (UFS-SRW). _Monthly Weather Review_. _In review_.
 
