@@ -5,7 +5,8 @@ title: Research & Education
 ## Education
 
 #### PhD in Atmospheric and Oceanic Sciences
-University of Colorado Boulder, expected 2027        
+University of Colorado Boulder, expected 2027
+PhD Candidacy Exam passed November 2024.
 Advisor: Dr. Jennifer Kay
 
 #### BSE in Climate & Meteorology
