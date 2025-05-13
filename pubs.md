@@ -4,7 +4,7 @@ title: Publications
 ---
 ## Publications
 
-**Gilbert, A.**, Kay, J.E., Blanchard-Wrigglesworth, E., Holland, M.M., Jahn, A., Bailey, D.A., and Schneider, D. Isolating the Contribution of Observed Winds to Recent Arctic Warming and Sea Ice Loss. _Journal of Climate_. _In preparation_.
+**Gilbert, A.L.**, Kay, J.E., Blanchard-Wrigglesworth, E., Bailey, D.A., Holland, M.M., Jahn, A., and Schneider, D.P. Observed Winds Alone Cannot Explain Recent Arctic Warming and Sea Ice Loss. _Environmental Research: Climate_. _Submitted_.
 
 **Gilbert, A.**, Kay, J.E., and Rowe, P. A Novel Model Hierarchy Isolates the Effect of Temperature-dependent Cloud Optics on Infrared Radiation. _Geoscientific Model Development_. _In review_. [Preprint](/assets/pdfs/egusphere-2024-2043.pdf)
 
