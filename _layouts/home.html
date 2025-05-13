@@ -53,6 +53,14 @@
       </section>
      
     </div>
+
+    <br>
+
+    <div id="footer">
+        {% if site.banner %}
+          <img src="{{site.stripe | relative_url}}" alt="Warming Stripes (1850-2024)"/>
+        {% endif %}
+    </div>
     
     
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
