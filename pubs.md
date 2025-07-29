@@ -7,9 +7,11 @@ title: Publications
 
 **Gilbert, A.L.**, Kay, J.E., Blanchard-Wrigglesworth, E., Bailey, D.A., Holland, M.M., Jahn, A., and Schneider, D.P. Observed Winds Alone Cannot Explain Recent Arctic Warming and Sea Ice Loss. _Environmental Research: Climate_. _In review_.
 
-**Gilbert, A.**, Kay, J.E., and Rowe, P. A Novel Model Hierarchy Isolates the Effect of Temperature-dependent Cloud Optics on Infrared Radiation. _Geoscientific Model Development_. _In review_. [Preprint](/assets/pdfs/egusphere-2024-2043.pdf)
-
 Wright, D.M., Jablonowski, C., Fujisaki-Manome, A., Mroczka, B., **Gilbert, A.**, Titze, D., Mann, G.E., Anderson, E.J. The Sensitivity of Lake-Effect Snowfall to Changes in Lake Surface Conditions Across the Forecast Horizon in the Unified Forecast System's Short-Range Weather Application (UFS-SRW). _Monthly Weather Review_. _In review_.
+
+### Accepted
+
+**Gilbert, A.**, Kay, J.E., and Rowe, P. A Novel Model Hierarchy Isolates the Limited Effect of Supercooled Liquid Cloud Optics on Infrared Radiation. _Geoscientific Model Development_. _Accepted_. [Preprint](/assets/pdfs/egusphere-2024-2043.pdf)
 
 ### Published
 
