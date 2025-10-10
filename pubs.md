@@ -11,7 +11,7 @@ Wright, D.M., Jablonowski, C., Fujisaki-Manome, A., Mroczka, B., **Gilbert, A.**
 
 **Gilbert, A.**, Kay, J.E., and Rowe, P. A novel model hierarchy isolates the limited effect of supercooled liquid cloud optics on infrared radiation. _Geoscientific Model Development_. _In press_. [Preprint](/assets/pdfs/egusphere-2024-2043.pdf)
 
-**Gilbert, A.L.**, Kay, J.E., Blanchard-Wrigglesworth, E., Bailey, D.A., Holland, M.M., Jahn, A., and Schneider, D.P. Observed winds alone cannot explain recent Arctic warming and sea ice loss. _Environmental Research: Climate_. _In press_. **DOI:** [10.1088/2752-5295/ae11cb](https://doi.org/10.1088/2752-5295/ae11cb). [PDF](/assets/pdfs/Gilbert+et+al_2025_Environ._Res.__Climate_10.1088_2752-5295_ae11cb.pdf).
+**Gilbert, A.L.**, Kay, J.E., Blanchard-Wrigglesworth, E., Bailey, D.A., Holland, M.M., Jahn, A., and Schneider, D.P. Observed winds alone cannot explain recent Arctic warming and sea ice loss. _Environmental Research: Climate_. _In press_. **DOI:** [10.1088/2752-5295/ae11cb](https://doi.org/10.1088/2752-5295/ae11cb). 
 
 ### Published
 
