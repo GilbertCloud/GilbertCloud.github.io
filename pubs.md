@@ -5,16 +5,16 @@ title: Publications
 ## Publications
 ### Under review
 
-**Gilbert, A.L.**, Kay, J.E., Blanchard-Wrigglesworth, E., Bailey, D.A., Holland, M.M., Jahn, A., and Schneider, D.P. Observed Winds Alone Cannot Explain Recent Arctic Warming and Sea Ice Loss. _Environmental Research: Climate_. _In review_.
-
 Wright, D.M., Jablonowski, C., Fujisaki-Manome, A., Mroczka, B., **Gilbert, A.**, Titze, D., Mann, G.E., Anderson, E.J. The Sensitivity of Lake-Effect Snowfall to Changes in Lake Surface Conditions Across the Forecast Horizon in the Unified Forecast System's Short-Range Weather Application (UFS-SRW). _Monthly Weather Review_. _In review_.
 
-### Accepted
+### In Press
 
-**Gilbert, A.**, Kay, J.E., and Rowe, P. A Novel Model Hierarchy Isolates the Limited Effect of Supercooled Liquid Cloud Optics on Infrared Radiation. _Geoscientific Model Development_. _Accepted_. [Preprint](/assets/pdfs/egusphere-2024-2043.pdf)
+**Gilbert, A.**, Kay, J.E., and Rowe, P. A novel model hierarchy isolates the limited effect of supercooled liquid cloud optics on infrared radiation. _Geoscientific Model Development_. _In press_. [Preprint](/assets/pdfs/egusphere-2024-2043.pdf)
+
+**Gilbert, A.L.**, Kay, J.E., Blanchard-Wrigglesworth, E., Bailey, D.A., Holland, M.M., Jahn, A., and Schneider, D.P. Observed winds alone cannot explain recent Arctic warming and sea ice loss. _Environmental Research: Climate_. _In press_. **DOI:** [10.1088/2752-5295/ae11cb](https://doi.org/10.1088/2752-5295/ae11cb). [PDF](/assets/pdfs/Gilbert+et+al_2025_Environ._Res.__Climate_10.1088_2752-5295_ae11cb.pdf).
 
 ### Published
 
-Jonko, A., Oliveto, J., Beaty, T., Atchley, A., Battaglia, M.A., Dickinson, M.R., **Gilbert, A.**, Godwin, D., Kupfer, J.A., Hiers, J.K., Hoffman, C., North, M., Restaino, J., Sieg, C., and Skowronski, N. (2024). How will future climate change impact prescribed fire across the contiguous United States? _npj Climate and Atmospheric Science_. [PDF](/assets/pdfs/s41612-024-00649-7.pdf)
+Jonko, A., Oliveto, J., Beaty, T., Atchley, A., Battaglia, M.A., Dickinson, M.R., **Gilbert, A.**, Godwin, D., Kupfer, J.A., Hiers, J.K., Hoffman, C., North, M., Restaino, J., Sieg, C., and Skowronski, N. (2024). How will future climate change impact prescribed fire across the contiguous United States? _npj Climate and Atmospheric Science_ **7**, 96. **DOI:** [10.1038/s41612-024-00649-7](https://doi.org/10.1038/s41612-024-00649-7). [PDF](/assets/pdfs/s41612-024-00649-7.pdf).
 
-Snide, C.E., **Gilbert, L.**, Meyer, A., Samson, P., Flanner, M., and Bassis, J. (2020). Seeing the Greenland Ice Sheet through students’ eyes. _Eos_. [Article](https://eos.org/science-updates/seeing-the-greenland-ice-sheet-through-students-eyes)
+Snide, C.E., **Gilbert, L.**, Meyer, A., Samson, P., Flanner, M., and Bassis, J. (2020). Seeing the Greenland Ice Sheet through students’ eyes. _Eos, 101_. **DOI:** [10.1029/2020EO139739](https://doi.org/10.1029/2020EO139739).
