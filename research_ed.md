@@ -25,8 +25,8 @@ In this research project, I evaulated whether improving supercooled liquid cloud
 
 Funded by a NSF Graduate Research Fellowship and NASA PREFIRE grant.
 
-### Controls on Arctic Warming Project
-In this project, I determined how much of the observed Arctic warming and sea loss and variability we can attribute to changes in the winds and sea ice mean state. The most recent presentation of this project was a [poster](/assets/pdfs/AGU2024_Poster.pdf) at the annual AGU meeting in December 2024. The paper for this project is in press at _Environmental Research: Climate_ ([https://doi.org/10.1088/2752-5295/ae11cb](https://doi.org/10.1088/2752-5295/ae11cb)).
+### Controls on Arctic Warming and Sea Ice Loss Project
+In this project, I determined how much of the observed Arctic warming and sea loss and variability we can attribute to changes in the winds and sea ice mean state. The most recent presentation of this project was a [talk](https://cuboulder.zoom.us/rec/share/GsEv5-hrM2P29wCBbPzR3LT3FX5Ml_Ks_X-zGRzsZDWTkHmWh9cGQwsMa7n3TFaV.PqEq_PwvXoI2MHll)[Passcode: @9G%$qTA] at the Department of Atmospheric and Oceanic Sciences Colloquium in September 2025. The paper for this project is in press at _Environmental Research: Climate_ ([https://doi.org/10.1088/2752-5295/ae11cb](https://doi.org/10.1088/2752-5295/ae11cb)).
 
 Funded by a NSF Graduate Research Fellowship and NSF Arctic Natural Sciences grant.
 
