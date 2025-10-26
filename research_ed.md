@@ -31,4 +31,4 @@ In this project, I determined how much of the observed Arctic warming and sea lo
 Funded by a NSF Graduate Research Fellowship and NSF Arctic Natural Sciences grant.
 
 ## CV
-[Curriculum vitae](/assets/pdfs/Gilbert_CV_10142025.pdf) (updated October 14th, 2025)
+[Curriculum vitae](/assets/pdfs/Gilbert_CV_10262025.pdf) (updated October 26th, 2025)
