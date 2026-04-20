@@ -4,8 +4,7 @@ title: Publications
 ---
 ## Publications
 ### Under review
-
-Wright, D.M., Jablonowski, C., Fujisaki-Manome, A., Mroczka, B., **Gilbert, A.**, Titze, D., Mann, G.E., Anderson, E.J. The Sensitivity of Lake-Effect Snowfall to Changes in Lake Surface Conditions Across the Forecast Horizon in the Unified Forecast System's Short-Range Weather Application (UFS-SRW). _Monthly Weather Review_. _In review_.
+Wright, D.M., Jablonowski, C., Fujisaki-Manome, A., Mroczka, B., **Gilbert, A.**, Titze, D., Mann, G.E., and Anderson, E.J. The Sensitivity of Lake-Effect Snowfall to Changes in Lake Surface Conditions Across the Forecast Horizon in the Unified Forecast System's Short-Range Weather Application (UFS-SRW). _Monthly Weather Review_. _In review_.
 
 ### Published
 **Gilbert, A.L.**, Kay, J.E., Blanchard-Wrigglesworth, E., Bailey, D.A., Holland, M.M., Jahn, A., and Schneider, D.P. Observed winds alone cannot explain recent Arctic warming and sea ice loss. (2025). _Environmental Research: Climate_ **4**(4), 045009. **DOI:** [10.1088/2752-5295/ae11cb](https://doi.org/10.1088/2752-5295/ae11cb). [PDF](/assets/pdfs/Gilbert_2025_Environ._Res.__Climate_4_045009.pdf).
