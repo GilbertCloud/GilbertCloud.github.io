@@ -3,10 +3,11 @@ layout: default
 title: Publications
 ---
 ## Publications
+### Submitted
+Gale, S., Fu, Q., Wang, H., Blanchard-Wrigglesworth, E., Wang, M., **Gilbert, A.**, Sweeney, A.J., and Po-Chedley, S. Why April Stands Out: Monthly Impacts of Internal Variability on Arctic Amplification. _Journal of Geophysical Research: Atmospheres_. _Submitted_. [Preprint](https://doi.org/10.22541/essoar.15002817/v1).
+
 ### Under review
 Wright, D.M., Jablonowski, C., Fujisaki-Manome, A., Mroczka, B., **Gilbert, A.**, Titze, D., Mann, G.E., and Anderson, E.J. The Sensitivity of Lake-Effect Snowfall to Changes in Lake Surface Conditions Across the Forecast Horizon in the Unified Forecast System's Short-Range Weather Application (UFS-SRW). _Monthly Weather Review_. _In review_.
-
-Gale, S., Fu, Q., Wang, H., Blanchard-Wrigglesworth, E., Wang, M., **Gilbert, A.**, Sweeney, A.J., and Po-Chedley, S. Why April Stands Out: Monthly Impacts of Internal Variability on Arctic Amplification. _Journal of Geophysical Research: Atmospheres_. _Submitted_. [Preprint](https://doi.org/10.22541/essoar.15002817/v1).
 
 ### Published
 **Gilbert, A.L.**, Kay, J.E., Blanchard-Wrigglesworth, E., Bailey, D.A., Holland, M.M., Jahn, A., and Schneider, D.P. Observed winds alone cannot explain recent Arctic warming and sea ice loss. (2025). _Environmental Research: Climate_ **4**(4), 045009. **DOI:** [10.1088/2752-5295/ae11cb](https://doi.org/10.1088/2752-5295/ae11cb). [PDF](/assets/pdfs/Gilbert_2025_Environ._Res.__Climate_4_045009.pdf).
