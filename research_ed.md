@@ -36,4 +36,4 @@ In this project, I attributed the observed Arctic warming and sea ice loss (1950
 Funded by a NSF Graduate Research Fellowship and NSF Arctic Natural Sciences grant.
 
 ## CV
-[Curriculum vitae](/assets/pdfs/Gilbert_CV_02182026.pdf) (updated February 18th, 2026)
+[Curriculum vitae](/assets/pdfs/Gilbert_CV_06052026.pdf) (updated June 5th, 2026)
