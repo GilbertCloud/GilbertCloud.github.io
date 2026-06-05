@@ -25,8 +25,13 @@ In this research project, I evaulated whether improving supercooled liquid cloud
 
 Funded by a NSF Graduate Research Fellowship and NASA PREFIRE grant.
 
-### Controls on Arctic Warming and Sea Ice Loss Project
-In this project, I determined how much of the observed Arctic warming and sea loss and variability we can attribute to changes in the winds and sea ice mean state. The most recent presentation of this project was a talk at the Climate and Cryosphere conference in February 2026. The first-author paper for this project has been published at _Environmental Research: Climate_ ([https://doi.org/10.1088/2752-5295/ae11cb](https://doi.org/10.1088/2752-5295/ae11cb)).
+### Influence of Winds on Arctic Warming and Sea Ice Loss Project
+In this project, I determined how much of the observed Arctic warming and sea loss and variability (1980-2023) we can attribute to changes in the winds and sea ice mean state. The most recent presentation of this project was a seminar at UCLouvain in June 2026. The first-author paper for this project has been published at _Environmental Research: Climate_ ([https://doi.org/10.1088/2752-5295/ae11cb](https://doi.org/10.1088/2752-5295/ae11cb)).
+
+Funded by a NSF Graduate Research Fellowship and NSF Arctic Natural Sciences grant.
+
+### Attribution of Arctic Warming and Sea Ice Loss to Winds and Anthropogenic Forcings Project
+In this project, I attributed the observed Arctic warming and sea ice loss (1950-2024) to winds, greenhouse gases, and non-greenhouse gases (i.e. anthropogenic aerosols, biomass burning emissions, natural aerosols). I also found that the recent (2005-2024) slowdown in Arctic sea ice loss is likely caused by non-greenhouse gases. The most recent presentation of this project was a seminar at UCLouvain in June 2026. The first-author paper for this project is being prepared for submission to _Environmental Research: Climate_ in summer 2026.
 
 Funded by a NSF Graduate Research Fellowship and NSF Arctic Natural Sciences grant.
 
