@@ -3,6 +3,9 @@ layout: default
 title: Publications
 ---
 ## Publications
+### In preparation
+**Gilbert, A.L.**, Kay, J.E., and Blanchard-Wrigglesworth, E. Internal and anthropogenic contributions to recent (1950-2024) Arctic temperature and sea ice change. _Environmental Research: Climate_. _In preparation_.
+
 ### Submitted
 Gale, S., Fu, Q., Wang, H., Blanchard-Wrigglesworth, E., Wang, M., **Gilbert, A.**, Sweeney, A.J., and Po-Chedley, S. Why April Stands Out: Monthly Impacts of Internal Variability on Arctic Amplification. _Journal of Geophysical Research: Atmospheres_. _Submitted_. [Preprint](https://doi.org/10.22541/essoar.15002817/v1).
 
