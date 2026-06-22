@@ -31,9 +31,9 @@ In this project, I determined how much of the observed Arctic warming and sea lo
 Funded by a NSF Graduate Research Fellowship and NSF Arctic Natural Sciences grant.
 
 ### Attribution of Arctic Warming and Sea Ice Loss to Winds and Anthropogenic Forcings Project
-In this project, I attributed the observed Arctic warming and sea ice loss (1950-2024) to winds, greenhouse gases, and non-greenhouse gases (i.e. anthropogenic aerosols, biomass burning emissions, natural aerosols). I also found that the recent (2005-2024) slowdown in Arctic sea ice loss is likely caused by non-greenhouse gases. The most recent presentation of this project was a seminar at UCLouvain in June 2026. The first-author paper for this project is being prepared for submission to _Environmental Research: Climate_ in summer 2026.
+In this project, I attributed the observed Arctic warming and sea ice loss (1950-2024) to winds, greenhouse gases, and non-greenhouse gases (i.e. anthropogenic aerosols, biomass burning emissions, natural aerosols). I also found that the recent (2005-2024) slowdown in Arctic sea ice loss is likely caused by non-greenhouse gases. The most recent presentation of this project was a [talk](https://www.youtube.com/live/9UJ2q_Gh2WE?si=3Xq_44eZ7qTm4mG_&t=9499) at the CESM Workshop in June 2026. The first-author paper for this project is being prepared for submission to _Environmental Research: Climate_ in summer 2026.
 
 Funded by a NSF Graduate Research Fellowship and NSF Arctic Natural Sciences grant.
 
 ## CV
-[Curriculum vitae](/assets/pdfs/Gilbert_CV_06052026.pdf) (updated June 5th, 2026)
+[Curriculum vitae](/assets/pdfs/Gilbert_CV_06222026.pdf) (updated June 22nd, 2026)
