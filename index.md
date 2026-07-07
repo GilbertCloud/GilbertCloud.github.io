@@ -4,7 +4,7 @@ title: Home
 ---
 ## About
 
-I am a fourth year PhD Candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. I have a bachelor's degree in Climate & Meteorology with minors in Computer Science and Latin from the University of Michigan and a master's degree in Atomspheric & Oceanic Sciences from the University of Colorado Boulder. I study Arctic atmosphere-sea ice interactions through climate models.
+I am a fifth year PhD Candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder. I have a bachelor's degree in Climate & Meteorology with minors in Computer Science and Latin from the University of Michigan and a master's degree in Atomspheric & Oceanic Sciences from the University of Colorado Boulder. I study Arctic atmosphere-sea ice interactions through climate models.
 
 When I'm not doing research, I enjoy being in the Colorado outdoors running, biking, and hiking. I also like reading sci-fi and fantasy books, cooking, drawing, and doing puzzles.
 
