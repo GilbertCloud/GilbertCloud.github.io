@@ -3,8 +3,8 @@ layout: default
 title: Publications
 ---
 ## Publications
-### In preparation
-**Gilbert, A.L.**, Kay, J.E., and Blanchard-Wrigglesworth, E. Internal and anthropogenic contributions to recent (1950-2024) Arctic temperature and sea ice change. _Environmental Research: Climate_. _In preparation_.
+### Submitted
+**Gilbert, A.L.**, Kay, J.E., and Blanchard-Wrigglesworth, E. Internal and anthropogenic contributions to recent (1950-2024) Arctic temperature and sea ice change. _Environmental Research: Climate_. _Submitted_.
 
 ### Under review
 Wright, D.M., Jablonowski, C., Fujisaki-Manome, A., Mroczka, B., **Gilbert, A.**, Titze, D., Mann, G.E., and Anderson, E.J. The Sensitivity of Lake-Effect Snowfall to Changes in Lake Surface Conditions Across the Forecast Horizon in the Unified Forecast System's Short-Range Weather Application (UFS-SRW). _Monthly Weather Review_. _In review_.
