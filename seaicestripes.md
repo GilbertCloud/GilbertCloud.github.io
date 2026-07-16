@@ -6,8 +6,10 @@ title: SeaIceStripes
 
 Uses NSIDC reconstruction (1850-2017) and NSIDC sea ice index (1978-)
 
-<label for="seaicestripe">Select month(s):</label>
-<select name="seaicestripe" id="seaicestripe">
-  <option value="Null_image.pdf"></option>
-  <option value="/assets/img/N_1850_January_Labeled.pdf">January</option>
-</select>
+<div>
+  <label for="seaicestripe">Select month(s):</label>
+  <select name="seaicestripe" id="seaicestripe">
+    <option value="/assets/img/N_1850_January_Labeled.pdf">January</option>
+    <option value="/assets/img/N_1850_February_Labeled.pdf">February</option>
+  </select>
+</div>
