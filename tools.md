@@ -9,5 +9,3 @@ This [Jupyter notebook](https://github.com/GilbertCloud/CESMwindnudgingvisualiza
 ## ERA5 nudging data
 
 This [GitHub Repository](https://github.com/GilbertCloud/ERA5_CESM2_nudgingfiles) describes how to process ERA5 reanalysis data for use in nudging [U,V,T,Q] in CESM2.
-
-## [SeaIceStripes](http://gilbertcloud.github.io/seaicestripes.html)
