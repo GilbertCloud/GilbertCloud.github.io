@@ -4,7 +4,7 @@ title: SeaIceStripes
 ---
 ## Sea Ice Stripes
 
-Sea ice stripes ala the [WarmingStripes](https://showyourstripes.info/) from Ed Hawkins. These stripes are available for individual months and all months on one plot. The stripes represent sea ice extent anomalies relative to the 1981-2010 climatological average. The data for the stripes comes from the [NSIDC reconstruction of Arctic sea ice extent (1850-2017)](https://nsidc.org/data/g10010/versions/2) and the [NSIDC sea ice index (1978-)](https://nsidc.org/data/g02135/versions/4). Stripes include data up to June 2026.
+I created sea ice stripes ala the [WarmingStripes](https://showyourstripes.info/) from Ed Hawkins. These stripes are available for individual months and all months on one plot. The stripes represent sea ice extent anomalies relative to the 1981-2010 climatological average. The data for the stripes comes from the [NSIDC reconstruction of Arctic sea ice extent (1850-2017)](https://nsidc.org/data/g10010/versions/2) and the [NSIDC sea ice index (1978-)](https://nsidc.org/data/g02135/versions/4). Stripes include data up to June 2026.
 
 <div markdown="1">
   
