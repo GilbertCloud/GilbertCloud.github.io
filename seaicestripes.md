@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SeaIceStripes
+title: Sea Ice Stripes
 ---
 ## Sea Ice Stripes
 
