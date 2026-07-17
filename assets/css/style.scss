@@ -16,8 +16,13 @@ select {
   width: 20%;
   padding: 8px;
   border: 4px;
-  border-radius: 2px;
+  border-radius: 3px;
   background-color: #f1f1f1;
+}
+
+select optgroup {
+  background-color: #f1f1f1;
+  color: #666;
 }
 
 h1 {
