@@ -22,7 +22,7 @@ Uses NSIDC reconstruction (1850-2017) and NSIDC sea ice index (1978-)
       var imgSrc = selectedOption.getAttribute("data-image");
       var altTxt = selectedOption.getAttribute("value");
       document.getElementById('displayImage').src = imgSrc;
-      document.getElementById('displayImage').alt = imgSrc;
+      document.getElementById('displayImage').alt = altTxt;
     }
   </script>
   
