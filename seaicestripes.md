@@ -10,7 +10,6 @@ I created sea ice stripes ala the [WarmingStripes](https://showyourstripes.info/
   
   <label for="seaicestripe">Select month(s):</label>
   <select id="seaicestripe" onchange="showImage()">
-    <option value="" ></option>
     <optgroup label="Without labels">
       <option value="allstripe" data-image="/assets/img/N_1850.png">All months</option>
       <option value="janstripe" data-image="/assets/img/N_1850_January.png">January</option>
