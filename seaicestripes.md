@@ -10,9 +10,10 @@ I created sea ice stripes ala the [WarmingStripes](https://showyourstripes.info/
   
   <label for="seaicestripe">Select month(s):</label>
   <select id="seaicestripe" onchange="showImage()">
+    <option value="" ></option>
     <option value="nolabel">Without labels</option>
-    <option value="allstripe" data-image="/assets/img/N_1850.png">  All months</option>
-    <option value="janstripe" data-image="/assets/img/N_1850_January.png">  January</option>
+    <option value="allstripe" data-image="/assets/img/N_1850.png">&emspAll months</option>
+    <option value="janstripe" data-image="/assets/img/N_1850_January.png">&emspJanuary</option>
     <option value="febstripe" data-image="/assets/img/N_1850_February.png">  February</option>
     <option value="marstripe" data-image="/assets/img/N_1850_March.png">  March</option>
     <option value="aprstripe" data-image="/assets/img/N_1850_April.png">  April</option>
