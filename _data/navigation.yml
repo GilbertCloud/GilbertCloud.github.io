@@ -6,3 +6,6 @@
   url: /pubs.html
 - title: Datasets & Tools
   url: /tools.html
+  children:
+    - title: Sea Ice Stripes
+      url: /seaicestripe.html 
