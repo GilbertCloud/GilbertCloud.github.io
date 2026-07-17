@@ -10,8 +10,8 @@ Uses NSIDC reconstruction (1850-2017) and NSIDC sea ice index (1978-)
   
   <label for="seaicestripe">Select month(s):</label>
   <select id="seaicestripe" onchange="showImage()">
-    <option value="janstripe" data-image="/assets/img/N_1850_January_Labeled.pdf">January</option>
-    <option value="febstripe" data-image="/assets/img/N_1850_February_Labeled.pdf">February</option>
+    <option value="janstripe" data-image="/assets/img/N_1850_January_Labeled.png">January</option>
+    <option value="febstripe" data-image="/assets/img/N_1850_February_Labeled.png">February</option>
   </select>
   
   <img id="displayImage" src="" alt=""/>
