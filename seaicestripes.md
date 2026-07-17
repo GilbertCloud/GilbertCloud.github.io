@@ -11,34 +11,34 @@ I created sea ice stripes ala the [WarmingStripes](https://showyourstripes.info/
   <label for="seaicestripe">Select month(s):</label>
   <select id="seaicestripe" onchange="showImage()">
     <option value="" ></option>
-    <option value="nolabel">Without labels</option>
+    <option value="">Without labels</option>
     <option value="allstripe" data-image="/assets/img/N_1850.png">&emsp;All months</option>
     <option value="janstripe" data-image="/assets/img/N_1850_January.png">&emsp;January</option>
-    <option value="febstripe" data-image="/assets/img/N_1850_February.png">  February</option>
-    <option value="marstripe" data-image="/assets/img/N_1850_March.png">  March</option>
-    <option value="aprstripe" data-image="/assets/img/N_1850_April.png">  April</option>
-    <option value="maystripe" data-image="/assets/img/N_1850_May.png">  May</option>
-    <option value="junstripe" data-image="/assets/img/N_1850_June.png">  June</option>
-    <option value="julstripe" data-image="/assets/img/N_1850_July.png">  July</option>
-    <option value="augstripe" data-image="/assets/img/N_1850_August.png">  August</option>
-    <option value="sepstripe" data-image="/assets/img/N_1850_September.png">  September</option>
-    <option value="octstripe" data-image="/assets/img/N_1850_October.png">  October</option>
-    <option value="novstripe" data-image="/assets/img/N_1850_November.png">  November</option>
-    <option value="decstripe" data-image="/assets/img/N_1850_December.png">  December</option>
-    <option value="labeled">Labeled</option>
-    <option value="allstripelabel" data-image="/assets/img/N_1850_Labeled.png">  All months</option>
-    <option value="janstripelabel" data-image="/assets/img/N_1850_January_Labeled.png">  January</option>
-    <option value="febstripelabel" data-image="/assets/img/N_1850_February_Labeled.png">  February</option>
-    <option value="marstripelabel" data-image="/assets/img/N_1850_March_Labeled.png">  March</option>
-    <option value="aprstripelabel" data-image="/assets/img/N_1850_April_Labeled.png">  April</option>
-    <option value="maystripelabel" data-image="/assets/img/N_1850_May_Labeled.png">  May</option>
-    <option value="junstripelabel" data-image="/assets/img/N_1850_June_Labeled.png">  June</option>
-    <option value="julstripelabel" data-image="/assets/img/N_1850_July_Labeled.png">  July</option>
-    <option value="augstripelabel" data-image="/assets/img/N_1850_August_Labeled.png">  August</option>
-    <option value="sepstripelabel" data-image="/assets/img/N_1850_September_Labeled.png">  September</option>
-    <option value="octstripelabel" data-image="/assets/img/N_1850_October_Labeled.png">  October</option>
-    <option value="novstripelabel" data-image="/assets/img/N_1850_November_Labeled.png">  November</option>
-    <option value="decstripelabel" data-image="/assets/img/N_1850_December_Labeled.png">  December</option>
+    <option value="febstripe" data-image="/assets/img/N_1850_February.png">&emsp;February</option>
+    <option value="marstripe" data-image="/assets/img/N_1850_March.png">&emsp;March</option>
+    <option value="aprstripe" data-image="/assets/img/N_1850_April.png">&emsp;April</option>
+    <option value="maystripe" data-image="/assets/img/N_1850_May.png">&emsp;May</option>
+    <option value="junstripe" data-image="/assets/img/N_1850_June.png">&emsp;June</option>
+    <option value="julstripe" data-image="/assets/img/N_1850_July.png">&emsp;July</option>
+    <option value="augstripe" data-image="/assets/img/N_1850_August.png">&emsp;August</option>
+    <option value="sepstripe" data-image="/assets/img/N_1850_September.png">&emsp;September</option>
+    <option value="octstripe" data-image="/assets/img/N_1850_October.png">&emsp;October</option>
+    <option value="novstripe" data-image="/assets/img/N_1850_November.png">&emsp;November</option>
+    <option value="decstripe" data-image="/assets/img/N_1850_December.png">&emsp;December</option>
+    <option value="">Labeled</option>
+    <option value="allstripelabel" data-image="/assets/img/N_1850_Labeled.png">&emsp;All months</option>
+    <option value="janstripelabel" data-image="/assets/img/N_1850_January_Labeled.png">&emsp;January</option>
+    <option value="febstripelabel" data-image="/assets/img/N_1850_February_Labeled.png">&emsp;February</option>
+    <option value="marstripelabel" data-image="/assets/img/N_1850_March_Labeled.png">&emsp;March</option>
+    <option value="aprstripelabel" data-image="/assets/img/N_1850_April_Labeled.png">&emsp;April</option>
+    <option value="maystripelabel" data-image="/assets/img/N_1850_May_Labeled.png">&emsp;May</option>
+    <option value="junstripelabel" data-image="/assets/img/N_1850_June_Labeled.png">&emsp;June</option>
+    <option value="julstripelabel" data-image="/assets/img/N_1850_July_Labeled.png">&emsp;July</option>
+    <option value="augstripelabel" data-image="/assets/img/N_1850_August_Labeled.png">&emsp;August</option>
+    <option value="sepstripelabel" data-image="/assets/img/N_1850_September_Labeled.png">&emsp;September</option>
+    <option value="octstripelabel" data-image="/assets/img/N_1850_October_Labeled.png">&emsp;October</option>
+    <option value="novstripelabel" data-image="/assets/img/N_1850_November_Labeled.png">&emsp;November</option>
+    <option value="decstripelabel" data-image="/assets/img/N_1850_December_Labeled.png">&emsp;December</option>
   </select>
   
   <img id="displayImage" src="" alt=""/>
