@@ -27,6 +27,10 @@ Sea ice stripes ala the [WarmingStripes](https://showyourstripes.info/) from Ed 
   </select>
   
   <img id="displayImage" src="" alt=""/>
+
+  <a id="downloadImage" href="">
+    <button type="button">Download</button>
+  </a>
   <script>
     function showImage() {
       var dropdown = document.getElementById("seaicestripe");
@@ -35,6 +39,7 @@ Sea ice stripes ala the [WarmingStripes](https://showyourstripes.info/) from Ed 
       var altTxt = selectedOption.getAttribute("value");
       document.getElementById('displayImage').src = imgSrc;
       document.getElementById('displayImage').alt = altTxt;
+      document.getElementById('downloadImage').href = imgSrc;
     }
   </script>
   
