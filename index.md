@@ -9,7 +9,7 @@ I am a fifth year PhD Candidate in Atmospheric and Oceanic Sciences at the Unive
 When I'm not doing research, I enjoy being in the Colorado outdoors running, biking, and hiking. I also like reading sci-fi and fantasy books, cooking, drawing, and doing puzzles.
 
 ## Links
-* [LinkedIn](https://www.linkedin.com/in/ashgilbertcuboulder/)
+<img src="/assets/img/LI-In-Bug.png" alt="LinkedIn logo" width="50"/> [LinkedIn](https://www.linkedin.com/in/ashgilbertcuboulder/)
 * [Google Scholar Profile](https://scholar.google.com/citations?user=bmfeMbkAAAAJ&hl=en)
 * [ORCID](https://orcid.org/0000-0002-8415-364X)
 * [Kay Group Website](https://cires.colorado.edu/research/research-groups/jennifer-kay-group)
