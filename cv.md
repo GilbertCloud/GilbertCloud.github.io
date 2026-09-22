@@ -4,7 +4,7 @@ title: CV
 ---
 ## Curriculum Vitae
 
-Last updated September 14th, 2026
+Last updated September 22nd, 2026
 
 <object class="pdf" 
         data= "/assets/pdfs/Gilbert_CV.pdf"
